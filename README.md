@@ -1,5 +1,7 @@
-# Examen de Orange portatil
+# Examen de Orange completo
 
-[Descargar el ZIP](https://github.com/raulivan1200/examen-orange-portatil/releases/latest/download/examen_orange_portatil.zip)
+[Descargar ZIP completo](https://github.com/raulivan1200/examen-orange-portatil/releases/latest/download/examen_orange_completo.zip)
 
-Extrae todo el ZIP y abre `examen_pulmones_china_usa.ows` desde Orange. Conserva los dos archivos `.tab` en la misma carpeta. El flujo usa rutas relativas a su carpeta y fue preparado con Orange 3.40.
+Incluye el flujo OWS con rutas relativas, ambos datasets TAB, los originales CSV/XLSX/TXT, codigo Python integrado y separado, dependencias, informes e instrucciones.
+
+Extrae todo y abre `examen_pulmones_china_usa.ows` desde Orange. Mantén los archivos `.tab` al lado del `.ows`. Preparado con Orange 3.40.
